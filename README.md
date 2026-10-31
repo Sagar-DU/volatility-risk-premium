@@ -1,6 +1,6 @@
 # Is Selling S&P 500 Volatility a Free Lunch?
 
-*Erdős Institute Quant Finance Boot Camp, Fall 2026 · Nahid Hasan Sagar, Kevin [last name]*
+*Erdős Institute Quant Finance Boot Camp, Fall 2026 · Nahid Hasan Sagar, Kevin Specht
 
 Option prices usually imply more volatility than actually follows, so selling volatility tends to earn a premium. This project asks four questions:
 
