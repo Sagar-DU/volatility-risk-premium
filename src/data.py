@@ -20,6 +20,7 @@ FRED_URL = "https://fred.stlouisfed.org/graph/fredgraph.csv?id={series}"
 # Named stress episodes used across all notebooks.
 EPISODES = {
     "GFC 2008":              ("2008-09-01", "2009-03-31"),
+    "US downgrade Aug 2011": ("2011-07-22", "2011-10-04"),
     "China deval Aug 2015":  ("2015-08-17", "2015-09-30"),
     "Volmageddon Feb 2018":  ("2018-01-29", "2018-02-28"),
     "COVID Mar 2020":        ("2020-02-19", "2020-04-30"),
