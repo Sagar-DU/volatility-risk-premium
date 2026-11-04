@@ -43,6 +43,12 @@ Data sources, all free: Yahoo Finance (`^GSPC`, `^VIX`, `^VIX3M`) and FRED (`DTB
 *Nahid: write the exact rule here and commit it **before** running notebook 03, section 4. Example:*
 > Hold a short-volatility position on day t only if yesterday's forecast premium (VIX² minus the HAR forecast) is positive and yesterday's VIX/VIX3M is below 1.
 
+## Trading rule (fixed on 4 Nov 2026, before running the 2016+ test)
+Sell one month of variance on day t only if, at the previous close,
+(1) the forecast premium VIX²/10000 − HAR forecast is positive, and
+(2) VIX/VIX3M < 1 (the VIX curve is not inverted).
+Otherwise hold cash. Nothing is tuned. Train 2008–2015, test 2016+, run once.
+
 ## Limitations
 *(fill in)*
 
