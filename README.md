@@ -8,7 +8,7 @@
 
 ## Deliverables
 - **Executive summary (2 pages):** [`docs/executive_summary/executive_summary.pdf`](docs/executive_summary/executive_summary.pdf), with its LaTeX source next to it
-- **Video presentation:** [link to the video] <!-- add the YouTube / Google Drive link here -->
+- **Video presentation:** [Watch the Presentation](https://youtu.be/IEWGzoeMQMU)
 - **Notebooks:** `notebooks/01`–`04`, described below
 
 ## Headline results
